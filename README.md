@@ -15,7 +15,7 @@ I studied theoretical physics, worked in computer science, proved theorems in ma
 
 💬 Ping me if you want to collaborate (as a PhD student in particular).
 
-🎉 Three items to catch your attention:
+🎉 A few items to catch your attention:
 <ul>
   	<li>
 	 <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
