@@ -15,10 +15,10 @@ I studied theoretical physics, worked in computer science, proved theorems in ma
 
 💬 Ping me if you want to collaborate (as a PhD student in particular).
 
-🎉 Three old funny items to catch your attention:
+🎉 Three items to catch your attention:
 <ul>
-  <li>
-	  <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
+  	<li>
+	 <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
 	    prawie na pewno?</a> (How to get rich almost surely?)
 	</li>
 	<li>
@@ -31,4 +31,12 @@ I studied theoretical physics, worked in computer science, proved theorems in ma
 	  by Gerard Nolst Trenit&eacute;, transcribed into IPA symbols
 	  by me.
 	</li>
+ 	<li>
+	  <a href="https://www.researchgate.net/publication/380515261_The_Making_of_My_Mother's_Book_From_a_Family_Database_to_Family_Trees">
+ 	The Making of My Mother's Book: From a Family Database to Family Trees</a>
+ 	</li>
+ 	<li>
+	  <a href="https://www.researchgate.net/publication/380515175_The_Making_of_My_Mother's_Book_Named_Entity_Recognition_for_the_Index_of_Persons">
+ 	The Making of My Mother's Book: Named Entity Recognition for the Index of Persons</a>
+ 	</li>
 </ul>
