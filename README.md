@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, I'm Łukasz Dębowski. 👋
 
-<!--
-**lukasz-debowski/lukasz-debowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as an associated professor at the Institute of Computer Science, Polish Academy of Sciences.
 
-Here are some ideas to get you started:
+My interests revolve around:
+<ul>
+<li>information theory</li>
+<li>stochastic processes</li>
+<li>quantitative linguistics</li>
+<li>statistical language models</li>
+<li>power laws</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ping me if you want to collaborate (as a PhD student in particular).
+
+🎉 Three fun items:
+<ul>
+  <li>
+	  <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
+	    prawie na pewno?</a> (How to get rich almost surely?)
+	</li>
+	<li>
+	  <a href="https://home.ipipan.waw.pl/l.debowski/docs/poezja/rojn2003.pdf">Charty
+	    zostały... czyli o generowaniu wierszy sylabicznych.</a>
+	    (On automatic generation of rhymed poems.)
+	</li>
+	<li>
+	  <a href="https://home.ipipan.waw.pl/l.debowski/docs/poezja/chaos.pdf">The Chaos</a>
+	  by Gerard Nolst Trenit&eacute;, transcribed into IPA symbols
+	  by me.
+	</li>
+</ul>
