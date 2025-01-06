@@ -13,7 +13,8 @@ My interests revolve around:
 
 I studied theoretical physics, worked in computer science, proved theorems in mathematics, and researched stats in linguistics.
 
-💬 Ping me if you want to collaborate (as a PhD student in particular).
+💬 Ping me if you want to collaborate.
+My prospective PhD student should read <a href="https://home.ipipan.waw.pl/l.debowski/docs/poszukiwany_poszukiwana.pdf">this</a>.
 
 🎉 A few items to catch your attention:
 <ul>
