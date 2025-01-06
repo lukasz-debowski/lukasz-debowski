@@ -7,13 +7,15 @@ My interests revolve around:
 <li>information theory</li>
 <li>stochastic processes</li>
 <li>quantitative linguistics</li>
-<li>statistical language models</li>
+<li>statistical and neural language models</li>
 <li>power laws</li>
 </ul>
 
+I studied theoretical physics, worked in computer science, proved theorems in mathematics, and researched stats in linguistics.
+
 💬 Ping me if you want to collaborate (as a PhD student in particular).
 
-🎉 Three fun items:
+🎉 Three old funny items to catch your attention:
 <ul>
   <li>
 	  <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
