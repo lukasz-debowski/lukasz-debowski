@@ -16,7 +16,7 @@ I studied theoretical physics, worked in computer science, proved theorems in ma
 💬 Ping me if you want to collaborate.
 My prospective PhD student should read <a href="https://home.ipipan.waw.pl/l.debowski/docs/poszukiwany_poszukiwana.pdf">this</a>.
 
-🎉 A few items to catch your attention:
+🎉 A few lighter items to catch your attention:
 <ul>
   	<li>
 	 <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
