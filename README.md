@@ -18,9 +18,21 @@ Wrote a few books:
 <li><a href="https://home.ipipan.waw.pl/l.debowski/docs/monografie/IT_and_processes.pdf">A Short Course in Universal Coding</a></li>
 </ul>
 
-💬 Ping me if you want to collaborate.
+💬 Ping me if you want to collaborate. My <a href="https://home.ipipan.waw.pl/l.debowski/docs/cv_en.pdf" target="_self">CV and pubs</a>.
+
 My prospective PhD student should read <a href="https://home.ipipan.waw.pl/l.debowski/docs/poszukiwany_poszukiwana.pdf">this</a>.
 
+Profiles:
+    <a href="https://home.ipipan.waw.pl/l.debowski/index.html">IPI PAN</a>,
+    <a href="https://orcid.org/0000-0001-7136-5283">ORCID</a>,
+    <a href="https://arxiv.org/search/?query=Lukasz+Debowski&searchtype=author&abstracts=show&order=-announced_date_first&size=50">arXiv</a>,
+    <a href="https://github.com/lukasz-debowski">GitHub</a>,
+    <a href="https://dblp.org/pers/hd/d/Debowski:Lukasz">DBLP</a>,
+    <a href="https://scholar.google.com/citations?user=cNmTluAAAAAJ&hl=pl">Google Scholar</a>,
+    <a href="http://www.researchgate.net/profile/Lukasz_Debowski">ResearchGate</a>,
+    <a href="https://www.linkedin.com/in/%C5%82ukasz-d%C4%99bowski-1835754/">LinkedIn</a>,
+    <a href="http://twitter.com/LukaszJDebowski">Twitter</a>. 
+  
 🎉 A few lighter items to catch your attention:
 <ul>
   	<li>
