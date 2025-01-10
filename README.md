@@ -1,6 +1,6 @@
 ## Hello, I'm Łukasz Dębowski. 👋
 
-I work as an associated professor at the Institute of Computer Science, Polish Academy of Sciences.
+I work as an associate professor at the Institute of Computer Science, Polish Academy of Sciences.
 
 My interests revolve around:
 <ul>
