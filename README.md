@@ -42,10 +42,13 @@ My prospective PhD student should read <a href="https://home.ipipan.waw.pl/l.deb
 	</li>
  	<li>
 	  <a href="https://www.researchgate.net/publication/380515261_The_Making_of_My_Mother's_Book_From_a_Family_Database_to_Family_Trees">
- 	The Making of My Mother's Book: From a Family Database to Family Trees</a>
+ 	The Making of My Mother's Book: From a Family Database to Family Trees.</a>
  	</li>
  	<li>
 	  <a href="https://www.researchgate.net/publication/380515175_The_Making_of_My_Mother's_Book_Named_Entity_Recognition_for_the_Index_of_Persons">
- 	The Making of My Mother's Book: Named Entity Recognition for the Index of Persons</a>
+ 	The Making of My Mother's Book: Named Entity Recognition for the Index of Persons.</a>
  	</li>
+	<li>
+	  <a href="https://e-isbn.pl/IsbnWeb/onix/summary.html?record_id=10446632">Wycieczki 1992-2022.</a>
+	</li>
 </ul>
