@@ -2,7 +2,7 @@
 
 I work as an associate professor at the Institute of Computer Science, Polish Academy of Sciences.
 
-Studied <b>theoretical physics</b>, worked in <b>computer science</b>, proved theorems in <b>mathematics</b>, and researched stats in <b>linguistics</b>.
+Studied <b>theoretical physics</b>, worked in <b>computer science</b>, proved theorems in <b>mathematics</b>, and researched <b>linguistics</b>.
 
 My interests revolve around:
 <ul>
