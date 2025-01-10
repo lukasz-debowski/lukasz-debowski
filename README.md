@@ -24,6 +24,9 @@ My prospective PhD student should read <a href="https://home.ipipan.waw.pl/l.deb
 🎉 A few lighter items to catch your attention:
 <ul>
   	<li>
+	I have a strictly larger <a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist">Erdős number</a> than my first PhD student. 
+	</li>
+	<li>
 	 <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
 	    prawie na pewno?</a> (How to get rich almost surely?)
 	</li>
