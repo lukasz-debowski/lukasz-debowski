@@ -1,4 +1,4 @@
-## Hello, I'm Łukasz Dębowski. 👋
+## Hello, I'm Łukasz Dębowski.
 
 I work as an associate professor at the Institute of Computer Science, Polish Academy of Sciences.
 
@@ -10,12 +10,14 @@ My interests revolve around:
 <li><b>stochastic processes</b>: sigma-fields, ergodic decomposition, Santa Fe processes, algorithmic randomness</li>
 <li><b>quantitative linguistics</b>: Zipf's law, Hilberg's law, hapax rate, urn model, maximal repetition, decay of correlations</li>
 <li><b>statistical and neural language models</b>: neural scaling law, overparametrization, embeddings, hallucinations</li>
+<li><b>computational mechanics</b>: prediction process, epsilon-machine, causal states, excess entropy</li>
 </ul>
 
-Wrote a few books:
+I wrote a monograph and two textbooks:
 <ul>
 <li><a href="https://www.wiley.com/en-pl/Information+Theory+Meets+Power+Laws:+Stochastic+Processes+and+Language+Models-p-9781119625278">Information Theory Meets Power Laws: Stochastic Processes and Language Models</a></li>
 <li><a href="https://home.ipipan.waw.pl/l.debowski/docs/monografie/IT_and_processes.pdf">A Short Course in Universal Coding</a></li>
+<li><a href="https://home.ipipan.waw.pl/l.debowski/docs/monografie/IT_and_statistics_f.pdf">Information Theory and Statistics</a></li>
 </ul>
 
 💬 Ping me if you want to collaborate. My <a href="https://home.ipipan.waw.pl/l.debowski/docs/cv_en.pdf" target="_self">CV and pubs</a>.
@@ -61,6 +63,6 @@ Profiles:
  	The Making of My Mother's Book: Named Entity Recognition for the Index of Persons.</a>
  	</li>
 	<li>
-	  <a href="https://e-isbn.pl/IsbnWeb/onix/summary.html?record_id=10446632">Wycieczki 1992-2022.</a>
+	  <a href="https://e-isbn.pl/IsbnWeb/onix/summary.html?record_id=10446632">Wycieczki 1992-2022.</a> (Trips 1992-2022.)
 	</li>
 </ul>
