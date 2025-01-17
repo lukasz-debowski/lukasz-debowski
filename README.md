@@ -1,8 +1,8 @@
 ## Hello, I'm Łukasz Dębowski.
 
-I work as an associate professor at the Institute of Computer Science, Polish Academy of Sciences.
+Associate professor at the Institute of Computer Science, Polish Academy of Sciences.
 
-Studied <b>theoretical physics</b>, worked in <b>computer science</b>, proved theorems in <b>mathematics</b>, and researched <b>linguistics</b>.
+I studied <b>theoretical physics</b>, work in <b>computer science</b>, prove theorems in <b>mathematics</b>, and research <b>linguistics</b>.
 
 My interests revolve around:
 <ul>
