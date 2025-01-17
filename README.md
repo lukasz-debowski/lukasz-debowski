@@ -1,4 +1,4 @@
-## Hello, I'm Łukasz Dębowski.
+## dr hab. Łukasz Dębowski
 
 Associate professor at the Institute of Computer Science, Polish Academy of Sciences.
 
@@ -20,7 +20,12 @@ I wrote one monograph and two textbooks:
 <li><a href="https://home.ipipan.waw.pl/l.debowski/docs/monografie/IT_and_statistics_f.pdf">Information Theory and Statistics</a></li>
 </ul>
 
-💬 Ping me if you want to collaborate. My <a href="https://home.ipipan.waw.pl/l.debowski/docs/cv_en.pdf" target="_self">CV and pubs</a>.
+Here are my
+<a href="https://home.ipipan.waw.pl/l.debowski/docs/cv_en.pdf">CV and publications</a>,
+<a href="https://home.ipipan.waw.pl/l.debowski/docs/presentations.html">slides</a>, 
+<a href="https://home.ipipan.waw.pl/l.debowski/docs/teaching.html">teaching materials</a>. 
+
+💬 My email address is <i>ldebowsk@ipipan.waw.pl</i>. Ping me if you want to collaborate.
 
 My prospective PhD student should read <a href="https://home.ipipan.waw.pl/l.debowski/docs/poszukiwany_poszukiwana.pdf">this</a>.
 
@@ -38,7 +43,7 @@ Profiles:
 🎉 A few lighter items to catch your attention:
 <ul>
   	<li>
-	I have a strictly larger <a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist">Erdős number</a> than my first PhD student. 
+	I have a strictly larger <a href="https://mathscinet.ams.org/mathscinet/freetools/collab-dist">Erdős number</a> than <a href="http://bluebox.ippt.pan.pl/~tsteifer/">my first PhD student</a>. 
 	</li>
 	<li>
 	 <a href="https://home.ipipan.waw.pl/l.debowski/howtogetrich.html">Jak się wzbogacić
