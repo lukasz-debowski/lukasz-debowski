@@ -13,7 +13,7 @@ My interests revolve around:
 <li><b>computational mechanics</b>: prediction process, epsilon-machine, causal states, excess entropy</li>
 </ul>
 
-I wrote a monograph and two textbooks:
+I wrote one monograph and two textbooks:
 <ul>
 <li><a href="https://www.wiley.com/en-pl/Information+Theory+Meets+Power+Laws:+Stochastic+Processes+and+Language+Models-p-9781119625278">Information Theory Meets Power Laws: Stochastic Processes and Language Models</a></li>
 <li><a href="https://home.ipipan.waw.pl/l.debowski/docs/monografie/IT_and_processes.pdf">A Short Course in Universal Coding</a></li>
