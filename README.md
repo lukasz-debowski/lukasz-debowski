@@ -10,7 +10,7 @@ My interests revolve around:
 <li><b>stochastic processes</b>: sigma-fields, ergodic decomposition, Santa Fe processes, algorithmic randomness</li>
 <li><b>quantitative linguistics</b>: Zipf's law, Hilberg's law, hapax rate, urn model, maximal repetition, decay of correlations</li>
 <li><b>statistical and neural language models</b>: neural scaling law, overparametrization, embeddings, hallucinations</li>
-<li><b>computational mechanics</b>: prediction process, epsilon-machine, causal states, excess entropy</li>
+<li><b>computational mechanics</b>: universal prediction, epsilon-machine, causal states, excess entropy</li>
 </ul>
 
 I wrote one monograph and two textbooks:
